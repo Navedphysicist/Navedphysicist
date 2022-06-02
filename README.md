@@ -1,11 +1,12 @@
-Hi 👋 My name is Naved Khan
+Hi 👋 I am Naved Khan a Full Stack Web Developer with specialization in MERN STACK.
 =============================
 
-Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.
-
-* 🌍  I hail from Bareilly,Uttar-Pradesh
-* ✉️  You can contact me at [navedphsicist0@gmail.comm](mailto:navedphysicist@gmail.comm)
-* 🧠  I'm learning Full Stack Web Development
+* 🌍  I hail from Bareilly, Uttar-Pradesh.
+* Visit my [Portfolio](https://naved-khan-portfolio.netlify.app/#/) for more details.
+* ✉️  You can contact me at [navedphsicist0@gmail.comm](mailto:navedphysicist@gmail.com)
+* 🧠 I am an individual with strong interpersonal skills, hands-on training on data structures and algorithms.
+* ✅ My latest project got selected in Top3 in my Batch
+* ⭐  [Click here](https://gleaming-hotteok-a2ad5e.netlify.app/) to see preview of our project. 
 <br />
 
 ## 👨🏻‍💻 Tech Stack
