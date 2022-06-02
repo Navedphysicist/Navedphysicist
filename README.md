@@ -6,7 +6,7 @@ Hi 👋 I am Naved Khan a Full Stack Web Developer with specialization in MERN S
 * ✉️  You can contact me at [navedphsicist0@gmail.comm](mailto:navedphysicist@gmail.com)
 * 🧠 I am an individual with strong interpersonal skills, hands-on training on data structures and algorithms.
 * ✅ My latest project got selected in Top3 in my Batch
-* ⭐  [Click here](https://gleaming-hotteok-a2ad5e.netlify.app/) to see preview of our project. 
+* ⭐  [Click here](https://gleaming-hotteok-a2ad5e.netlify.app/) to see preview of the project. 
 <br />
 
 ## 👨🏻‍💻 Tech Stack
