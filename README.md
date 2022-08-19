@@ -1,10 +1,8 @@
-Hi 👋 I am Naved Khan.
-
-=============================
+## Hi 👋 I am Naved Khan.
+==========================================================
 
 <h4 align="center">I'm a passionate Full-Stack Web Developer.My passion for development lies with dreaming up ideas and making them come true with smart interfaces. I take care the user experience and code quality of the things I build.I love to learn from Open Source make use to improve user expeirence</h4>
 
-=============================
 
 * 🌍  I hail from Bareilly, Uttar-Pradesh.
 * Visit my [Portfolio](https://naved-khan-portfolio.netlify.app/#/) for more details.
