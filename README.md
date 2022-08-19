@@ -1,6 +1,6 @@
 ## Hi 👋 I am Naved Khan.
 
-<h4 align="center">I'm a passionate Full-Stack Web Developer.My passion for development lies with dreaming up ideas and making them come true with smart interfaces. I take care the user experience and code quality of the things I build.I love to learn from Open Source make use to improve user expeirence</h4>
+<h4 align="center">I'm a passionate Full-Stack Web Developer. My passion for development lies in dreaming up ideas and making them come true with smart interfaces. I take care of the user experience and code quality of the things I build. I love to learn from Open sources and make use of them to improve the user experience.</h4>
 
 
 * 🌍  I hail from Bareilly, Uttar-Pradesh.
