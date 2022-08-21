@@ -7,7 +7,7 @@
 * 🔥  Visit my [Portfolio](https://naved-khan-portfolio.netlify.app/#/) for more details.
 * ✉️  You can contact me at [navedphsicist@gmail.comm](mailto:navedphysicist@gmail.com)
 * 🧠 I am an individual with strong interpersonal skills, hands-on training on data structures and algorithms.
-* ⭐ My latest two projects [Bewakoof.com](https://heady-rabbits-8957.vercel.app/)[BeautyBebo.com],(https://gleaming-hotteok-a2ad5e.netlify.app/) selected in Top      Projects in Masai School
+* ⭐ My latest two projects [Bewakoof.com](https://heady-rabbits-8957.vercel.app/),[BeautyBebo.com](https://gleaming-hotteok-a2ad5e.netlify.app/) selected in Top      Projects in Masai School
 <br />
 
 ## 👨🏻‍💻 Tech Stack
