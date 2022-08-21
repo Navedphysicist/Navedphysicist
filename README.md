@@ -32,10 +32,7 @@
 ## 📩 Contact Me 👇
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/naved-khan-093167137/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram--informational?style=flat&logo=instagram&logoColor=fd13b3&color=orange)](https://www.instagram.com/nakshewaaz_naved/)
 [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@navedphysicist)
-[![Facebook Badge](https://img.shields.io/badge/Facebook--informational?style=flat&logo=facebook&logoColor=0e8ef1&color=green)](https://www.facebook.com/profile.php?id=100028364587915)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Navedphysicist)
-[![Telegram Badge](https://img.shields.io/badge/Telegram--informational?style=flat&logo=Telegram&logoColor=white&color=slateblue)](https://t.me/mdarshadkhan)
-
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=blue)](https://naved-khan-portfolio.netlify.app/#/)
 
